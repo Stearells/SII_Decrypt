@@ -7,4 +7,4 @@ Using:
 SII_Decrypt.exe InputFile [OutputFile]
 ```
 
-Download link: https://github.com/Stearells/SII_Decrypt-Shell/releases/
+Download link: https://github.com/Stearells/SII_Decrypt-Shell/releases/tag/0.2
