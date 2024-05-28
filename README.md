@@ -1,4 +1,4 @@
-# SII_Decrypt-Shell
+# Euro Truck Simulator 2 SII Decrypt CLI
 -------------------------
 Game version 1.43 - 1.47
 
